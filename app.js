@@ -16,19 +16,19 @@ try {
 
     const produtos = [
         {
-            id_prod: 134,
-            nome: "SmartTV LG 8K 5G 70\"",
-            descricao: "SmartTV LG model LG7020228K5G",
+            id_prod: 136,
+            nome: " AMD Radeon RX 6600 ",
+            descricao: "XFX Speedster SWFT 210 AMD Core Gaming, 8GB GDDR6,RDNA 2 ",
             importado: true,
-            preco: 23500,
+            preco: 3500,
             qtd_estoque: 150
         },
         {
-            id_prod: 135,
-            nome: "SmartTV SAMSUMG 8K 5G 45\"",
-            descricao: "SmartTV SAMSUMG model SM4520228K5G",
+            id_prod: 137,
+            nome: "Smartphone Motorola Moto Edge 30 Pro,",
+            descricao: "Moto Edge 5G, 12GB RAM, 256GB, Câmera Tripla 50MP, Tela Max Vision 6.7, Branco",
             importado: true,
-            preco: 12500,
+            preco: 5800,
             qtd_estoque: 150
         }]
 
